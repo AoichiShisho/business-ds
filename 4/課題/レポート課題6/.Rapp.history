@@ -1,0 +1,1553 @@
+nit(29) - sum(nit(grade_nit))
+nit(morning_nit)
+sum(nit(morniing_nit))
+sum(nit(morning_nit))
+nit(29) - sum(nit(morning_nit))
+nit(gpa_nit)
+sum(nit(gpa_nit))
+nit(29) - 139.969
+nit(seminar_nit)
+sum(nit(seminar_nit))
+sum(29) - 97.77441
+nit(29) - 97.77441
+sum(29)
+nit(29)
+nit(8)
+nit(18)
+nit(29)
+nit(17)
+hist(comschool_nit)
+sum(programming)/29
+sum(comschool)/29
+source("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R", encoding="EUC-JP")
+faculty <- matrix(c(1, 3, 0,#
+                    6, 7, 0,#
+                    8, 7, 1 ), byrow=T, ncol=3)#
+#
+food <- matrix(c(2, 1, 1,#
+                 7, 4, 2,#
+                 9, 4, 3 ), byrow=T, ncol=3)#
+#
+os <- matrix(c( 3, 1,#
+                11, 2,#
+                14, 2), byrow=T, ncol=2)#
+#
+prefecture <- matrix(c( 2, 1, 0, 0, 1,#
+                       10, 2, 0, 0, 1,#
+                        6, 1, 1, 1, 7), byrow=T, ncol=5)#
+#
+newyear <- matrix(c( 2, 0, 2, 0,#
+                    11, 2, 0, 0,#
+                    11, 2, 1, 2), byrow=T, ncol=4)#
+#
+language <- matrix(c( 2, 0, 0, 1, 0, 0, 1,#
+                      6, 0, 3, 0, 3, 1, 0,#
+                     10, 2, 3, 0, 0, 1, 0), byrow=T, ncol=7)#
+#
+type <- matrix(c(1,  3,#
+                 1, 12,#
+                 5, 11), byrow=T, ncol=2)#
+#
+show <- matrix(c(2, 2, 0, 0,#
+                 5, 7, 1, 0,#
+                 7, 4, 3, 2), byrow=T, ncol=4)
+cat(show)
+cat(faculty)
+cat(kulA(faculty))
+cat(nit(faculty))
+cat(kulA(faculty))
+nit
+http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R
+source("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R", encoding="EUC-JP")
+nit
+kul
+kuI
+faculty <- matrix(c(1, 3, 0,#
+                    6, 7, 0,#
+                    8, 7, 1 ), byrow=T, ncol=3)#
+#
+food <- matrix(c(2, 1, 1,#
+                 7, 4, 2,#
+                 9, 4, 3 ), byrow=T, ncol=3)#
+#
+os <- matrix(c( 3, 1,#
+                11, 2,#
+                14, 2), byrow=T, ncol=2)#
+#
+prefecture <- matrix(c( 2, 1, 0, 0, 1,#
+                       10, 2, 0, 0, 1,#
+                        6, 1, 1, 1, 7), byrow=T, ncol=5)#
+#
+newyear <- matrix(c( 2, 0, 2, 0,#
+                    11, 2, 0, 0,#
+                    11, 2, 1, 2), byrow=T, ncol=4)#
+#
+language <- matrix(c( 2, 0, 0, 1, 0, 0, 1,#
+                      6, 0, 3, 0, 3, 1, 0,#
+                     10, 2, 3, 0, 0, 1, 0), byrow=T, ncol=7)#
+#
+type <- matrix(c(1,  3,#
+                 1, 12,#
+                 5, 11), byrow=T, ncol=2)#
+#
+show <- matrix(c(2, 2, 0, 0,#
+                 5, 7, 1, 0,#
+                 7, 4, 3, 2), byrow=T, ncol=4)
+kuIAxB(faculty)
+cat(kuIAxB(faculty))
+cat(kuIAxB(faculty))#
+#
+cat(kuIAxB(food))#
+#
+cat(kuIAxB(os))#
+#
+cat(kuIAxB(prefecture))#
+#
+cat(kuIAxB(newyear))#
+#
+cat(kuIAxB(language))#
+#
+cat(kuIAxB(type))#
+#
+cat(kuIAxB(show))
+kuIA(language)
+cat(kuIA(language))
+cat(kuIA)
+cat(kuIA(language))
+kuIA
+nit(6) + nit(2) + nit(10)
+nit(10)
+nit(10) + nit(2) + nit(3)
+cat(language)
+nit(15)
+nit(18)
+nit(18) - nit(10) - nit(2) - nit(6)
+kuIB(language)
+cat(kuIB(language))
+cat(nit(4) + nit(13) + nit(16) - nit(2) - nit(6) - nit(3) - nit(3) - nit(10) - nit(2) - nit(3))
+cat(nit(4) + nit(13) + nit(16) - nit(2) - nit(6) - nit(3) - nit(3) - nit(10) - nit(2) - nit(3) - nit(1))
+cat(kuIA(language))
+faculty <- matrix(c(1, 3, 0,#
+                    6, 7, 0,#
+                    8, 7, 1 ), byrow=T, ncol=3, nrow=3)#
+#
+food <- matrix(c(2, 1, 1,#
+                 7, 4, 2,#
+                 9, 4, 3 ), byrow=T, ncol=3, nrow=3)#
+#
+os <- matrix(c( 3, 1,#
+                11, 2,#
+                14, 2), byrow=T, ncol=2, nrow=3)#
+#
+prefecture <- matrix(c( 2, 1, 0, 0, 1,#
+                       10, 2, 0, 0, 1,#
+                        6, 1, 1, 1, 7), byrow=T, ncol=5, nrow=3)#
+#
+newyear <- matrix(c( 2, 0, 2, 0,#
+                    11, 2, 0, 0,#
+                    11, 2, 1, 2), byrow=T, ncol=4, nrow=3)#
+#
+language <- matrix(c( 2, 0, 0, 1, 0, 0, 1,#
+                      6, 0, 3, 0, 3, 1, 0,#
+                     10, 2, 3, 0, 0, 1, 0), byrow=T, ncol=7m, nrow=3)#
+#
+type <- matrix(c(1,  3,#
+                 1, 12,#
+                 5, 11), byrow=T, ncol=2, nrow=3)#
+#
+show <- matrix(c(2, 2, 0, 0,#
+                 5, 7, 1, 0,#
+                 7, 4, 3, 2), byrow=T, ncol=4, nrow=3)
+cat(kuIA(language))
+cat(kuIB(language))
+source("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R", encoding="EUC-JP")#
+#
+faculty <- matrix(c(1, 3, 0,#
+                    6, 7, 0,#
+                    8, 7, 1 ), byrow=T, ncol=3, nrow=3)#
+#
+food <- matrix(c(2, 1, 1,#
+                 7, 4, 2,#
+                 9, 4, 3 ), byrow=T, ncol=3, nrow=3)#
+#
+os <- matrix(c( 3, 1,#
+                11, 2,#
+                14, 2), byrow=T, ncol=2, nrow=3)#
+#
+prefecture <- matrix(c( 2, 1, 0, 0, 1,#
+                       10, 2, 0, 0, 1,#
+                        6, 1, 1, 1, 7), byrow=T, ncol=5, nrow=3)#
+#
+newyear <- matrix(c( 2, 0, 2, 0,#
+                    11, 2, 0, 0,#
+                    11, 2, 1, 2), byrow=T, ncol=4, nrow=3)#
+#
+language <- matrix(c( 2, 0, 0, 1, 0, 0, 1,#
+                      6, 0, 3, 0, 3, 1, 0,#
+                     10, 2, 3, 0, 0, 1, 0), byrow=T, ncol=7, nrow=3)#
+#
+type <- matrix(c(1,  3,#
+                 1, 12,#
+                 5, 11), byrow=T, ncol=2, nrow=3)#
+#
+show <- matrix(c(2, 2, 0, 0,#
+                 5, 7, 1, 0,#
+                 7, 4, 3, 2), byrow=T, ncol=4, nrow=3)#
+#
+cat(kuIAxB(faculty))#
+#
+cat(kuIAxB(food))#
+#
+cat(kuIAxB(os))#
+#
+cat(kuIAxB(prefecture))#
+#
+cat(kuIAxB(newyear))#
+#
+cat(kuIAxB(language))#
+#
+cat(kuIAxB(type))#
+#
+cat(kuIAxB(show))
+nit(4) - nit(2) + nit(13) - nit(6) - nit(3) - nit(3) + nit(16) - nit(10) - nit(2) - nit(3)
+cat(kuI(language))
+cat(kuIA(language))
+cat(kuIB(language))
+nit(33)
+nit(33) - nit(4) - nit(13) - nit(16)
+nit(4) - nit(2)
+nit(13) - nit(6) - nit(3) - nit(3)
+nit(16) - nit(10) - nit(2) - nit(3)
+cat(kuI(language))
+cat(kuIAxB(language))
+cat(kuIA(language))
+cat(kuIB(language))
+cat('語学は何を選んだか」における顕在情報量')#
+cat('国語：' + (nit(4) - nit(2)))#
+cat('数学：' + (nit(13) - nit(6) - nit(3) - nit(3)))#
+cat('英語：' + (nit(16) - nit(10) - nit(2) - nit(3)))
+cat('語学は何を選んだか」における顕在情報量')#
+cat('国語：') nit(4) - nit(2)#
+cat('数学：') nit(13) - nit(6) - nit(3) - nit(3)#
+cat('英語：') nit(16) - nit(10) - nit(2) - nit(3)
+cat('語学は何を選んだか」における顕在情報量')#
+cat('国語：') #
+nit(4) - nit(2)#
+cat('数学：')#
+nit(13) - nit(6) - nit(3) - nit(3)#
+cat('英語：') #
+nit(16) - nit(10) - nit(2) - nit(3)
+cat('「使用OS」における顕在情報量')#
+cat('国語') #
+nit(4) - nit(3)#
+cat('数学')#
+nit(13) - nit(11) - nit(2)#
+cat('英語') #
+nit(16) - nit(14) - nit(2)
+cat('「好きな食べ物」における顕在情報量')#
+cat('国語') #
+nit(4) - nit(2)#
+cat('数学')#
+nit(13) - nit(7) - nit(4) - nit(2)#
+cat('英語') #
+nit(16) - nit(9) - nit(4) - nit(3)
+cat('「年末の過ごし方」における顕在情報量')#
+cat('国語') #
+nit(4) - nit(2) - nit(2)#
+cat('数学')#
+nit(13) - nit(11) - nit(2)#
+cat('英語') #
+nit(16) - nit(11) - nit(2) - nit(2)
+kuIA(newyear)
+cat(kuIA(newyear))
+cat(kuIA(food))
+cat(kuIB(newyear))
+cat(kuIB(food))
+food
+cfreq <- as.matrix(read.table("chocofreq.csv", header=FALSE, sep=",", nrows=-1))#
+cfreq <- as.matrix(read.table("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv"#
+                              , header=FALSE, sep=",", nrows=-1))#
+#
+colnames(cfreq) <- c("値ごろ", "味", "カロリー", "カカオ", "新製品"#
+                     , "ブランド", "パッケージ",  "メーカー", "広告", "評判")#
+rownames(cfreq) <- c("明治ミルク", "ブラック", "効果", "ライフ", "ノワール"#
+                     , "森永ミルク", "カレ・ド", "ダース", "カカオの恵み", "アッセ"#
+                     , "ガーナ", "紗々", "刻みカカオ", "シャルロッテ", "エアーズ"#
+                     , "GABA", "アロマーモ", "バンホーテン", "エアロ")#
+#
+cfreq
+cfreq
+cfreq.ihs <- kuiClust(cfreq)
+source("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R",  encoding="EUC-JP")
+cfreq.ihs <- kuiClust(cfreq)
+kuiCpr(cfreq.ihs)
+plot(cfreq.ihc, labels=cfreq[,1], hang=-1, )
+creq.ihc <- kuiClust(cfreq)
+source("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R",  encoding="EUC-JP")#
+#
+cfreq <- as.matrix(read.table("chocofreq.csv", header=FALSE, sep=",", nrows=-1))#
+cfreq <- as.matrix(read.table("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv"#
+                              , header=FALSE, sep=",", nrows=-1))#
+#
+colnames(cfreq) <- c("値ごろ", "味", "カロリー", "カカオ", "新製品"#
+                     , "ブランド", "パッケージ",  "メーカー", "広告", "評判")#
+rownames(cfreq) <- c("明治ミルク", "ブラック", "効果", "ライフ", "ノワール"#
+                     , "森永ミルク", "カレ・ド", "ダース", "カカオの恵み", "アッセ"#
+                     , "ガーナ", "紗々", "刻みカカオ", "シャルロッテ", "エアーズ"#
+                     , "GABA", "アロマーモ", "バンホーテン", "エアロ")
+#クラスター形成の経過#
+cfreq.ihc <- kuiClust(cfreq)#
+kuiCpr(cfreq.ihs)
+#クラスター形成の経過#
+cfreq.ihc <- kuiClust(cfreq)#
+kuiCpr(cfreq.ihc)
+plot(cfreq.ihc, labels=cfreq[,1], hang=-1,#
+     main="チョコレートブランドの銘柄選択理由",#
+     cex=0.6, ylab="銘柄選択理由", xlab="ブランド")
+cfreq0 <- read.csv("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv", header=T, nrows=-1)#
+cfreq <- as.matrix(cfreq0[])#
+cfreq0
+source("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R",  encoding="EUC-JP")#
+#
+#データ#
+cfreq0 <- read.csv("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv", header=T, nrows=-1)#
+cfreq <- as.matrix(cfreq0[])#
+#
+colnames(cfreq0) <- c("値ごろ", "味", "カロリー", "カカオ", "新製品"#
+                     , "ブランド", "パッケージ",  "メーカー", "広告", "評判")#
+rownames(cfreq0) <- c("明治ミルク", "ブラック", "効果", "ライフ", "ノワール"#
+                     , "森永ミルク", "カレ・ド", "ダース", "カカオの恵み", "アッセ"#
+                     , "ガーナ", "紗々", "刻みカカオ", "シャルロッテ", "エアーズ"#
+                     , "GABA", "アロマーモ", "バンホーテン", "エアロ")#
+cfreq0
+source("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R",  encoding="EUC-JP")#
+#
+#データ#
+cfreq0 <- read.csv("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv", header=T, ncol=10, nrows=19)#
+cfreq <- as.matrix(cfreq0[])#
+#
+colnames(cfreq0) <- c("値ごろ", "味", "カロリー", "カカオ", "新製品"#
+                     , "ブランド", "パッケージ",  "メーカー", "広告", "評判")#
+rownames(cfreq0) <- c("明治ミルク", "ブラック", "効果", "ライフ", "ノワール"#
+                     , "森永ミルク", "カレ・ド", "ダース", "カカオの恵み", "アッセ"#
+                     , "ガーナ", "紗々", "刻みカカオ", "シャルロッテ", "エアーズ"#
+                     , "GABA", "アロマーモ", "バンホーテン", "エアロ")#
+cfreq0
+source("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R",  encoding="EUC-JP")#
+#
+#データ#
+cfreq0 <- read.csv("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv", header=T, ncols=10, nrows=19)#
+cfreq <- as.matrix(cfreq0[])#
+#
+colnames(cfreq0) <- c("値ごろ", "味", "カロリー", "カカオ", "新製品"#
+                     , "ブランド", "パッケージ",  "メーカー", "広告", "評判")#
+rownames(cfreq0) <- c("明治ミルク", "ブラック", "効果", "ライフ", "ノワール"#
+                     , "森永ミルク", "カレ・ド", "ダース", "カカオの恵み", "アッセ"#
+                     , "ガーナ", "紗々", "刻みカカオ", "シャルロッテ", "エアーズ"#
+                     , "GABA", "アロマーモ", "バンホーテン", "エアロ")#
+cfreq0
+source("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R",  encoding="EUC-JP")#
+#
+#データ#
+cfreq0 <- read.csv("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv", header=T, nrows=-1)#
+cfreq <- as.matrix(cfreq0)#
+#
+colnames(cfreq0) <- c("値ごろ", "味", "カロリー", "カカオ", "新製品"#
+                     , "ブランド", "パッケージ",  "メーカー", "広告", "評判")#
+rownames(cfreq0) <- c("明治ミルク", "ブラック", "効果", "ライフ", "ノワール"#
+                     , "森永ミルク", "カレ・ド", "ダース", "カカオの恵み", "アッセ"#
+                     , "ガーナ", "紗々", "刻みカカオ", "シャルロッテ", "エアーズ"#
+                     , "GABA", "アロマーモ", "バンホーテン", "エアロ")#
+cfreq0
+source("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R",  encoding="EUC-JP")#
+#
+#データ#
+cfreq0 <- read.csv("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv", header=T, nrows=-1)#
+cfreq <- as.matrix(cfreq0[,c(1:19)])#
+#
+colnames(cfreq0) <- c("値ごろ", "味", "カロリー", "カカオ", "新製品"#
+                     , "ブランド", "パッケージ",  "メーカー", "広告", "評判")#
+rownames(cfreq0) <- c("明治ミルク", "ブラック", "効果", "ライフ", "ノワール"#
+                     , "森永ミルク", "カレ・ド", "ダース", "カカオの恵み", "アッセ"#
+                     , "ガーナ", "紗々", "刻みカカオ", "シャルロッテ", "エアーズ"#
+                     , "GABA", "アロマーモ", "バンホーテン", "エアロ")#
+cfreq0
+source("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R",  encoding="EUC-JP")#
+#
+#データ#
+cfreq <- as.matrix("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv"#
+                    , header=FALSE, sep=",", nrows=-1)#
+#
+colnames(cfreq) <- c("値ごろ", "味", "カロリー", "カカオ", "新製品"#
+                     , "ブランド", "パッケージ",  "メーカー", "広告", "評判")#
+rownames(cfreq) <- c("明治ミルク", "ブラック", "効果", "ライフ", "ノワール"#
+                     , "森永ミルク", "カレ・ド", "ダース", "カカオの恵み", "アッセ"#
+                     , "ガーナ", "紗々", "刻みカカオ", "シャルロッテ", "エアーズ"#
+                     , "GABA", "アロマーモ", "バンホーテン", "エアロ")#
+cfreq
+source("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R", encoding="EUC-JP")#
+#
+#データ#
+cfreq <- as.matrix("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv"#
+                    , header=FALSE, sep=",", nrows=-1)#
+#
+colnames(cfreq) <- c("値ごろ", "味", "カロリー", "カカオ", "新製品"#
+                     , "ブランド", "パッケージ",  "メーカー", "広告", "評判")#
+rownames(cfreq) <- c("明治ミルク", "ブラック", "効果", "ライフ", "ノワール"#
+                     , "森永ミルク", "カレ・ド", "ダース", "カカオの恵み", "アッセ"#
+                     , "ガーナ", "紗々", "刻みカカオ", "シャルロッテ", "エアーズ"#
+                     , "GABA", "アロマーモ", "バンホーテン", "エアロ")#
+cfreq#
+#
+#クラスター形成の経過#
+cfreq.ihc <- kuiClust(cfreq)#
+kuiCpr(cfreq.ihc)#
+#
+#デンドログラム#
+plot(cfreq.ihc, labels=cfreq[,1], hang=-1,#
+     main="チョコレートブランドの銘柄選択理由",#
+     cex=0.6, ylab="銘柄選択理由", xlab="ブランド")
+source("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R", encoding="EUC-JP")#
+#
+#データ#
+cfreq <- as.matrix(read.table("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv"#
+                    , header=FALSE, sep=",", nrows=-1))#
+#
+colnames(cfreq) <- c("値ごろ", "味", "カロリー", "カカオ", "新製品"#
+                     , "ブランド", "パッケージ",  "メーカー", "広告", "評判")#
+rownames(cfreq) <- c("明治ミルク", "ブラック", "効果", "ライフ", "ノワール"#
+                     , "森永ミルク", "カレ・ド", "ダース", "カカオの恵み", "アッセ"#
+                     , "ガーナ", "紗々", "刻みカカオ", "シャルロッテ", "エアーズ"#
+                     , "GABA", "アロマーモ", "バンホーテン", "エアロ")#
+cfreq#
+#
+#クラスター形成の経過#
+cfreq.ihc <- kuiClust(cfreq)#
+kuiCpr(cfreq.ihc)#
+#
+#デンドログラム#
+plot(cfreq.ihc, labels=cfreq[,1], hang=-1,#
+     main="チョコレートブランドの銘柄選択理由",#
+     cex=0.6, ylab="銘柄選択理由", xlab="ブランド")
+#デンドログラム#
+plot(cfreq.ihc, labels=cfreq[,1], hang=-1,#
+     main="チョコレートブランドの銘柄選択理由",#
+     cex=0.6, ylab="銘柄選択理由", xlab="ブランド")
+#デンドログラム#
+plot(cfreq.ihc, labels=colnames[,1], hang=-1,#
+     main="チョコレートブランドの銘柄選択理由",#
+     cex=0.6, ylab="銘柄選択理由", xlab="ブランド")
+#デンドログラム#
+plot(cfreq.ihc, labels=colnames(cfreq)[,1], hang=-1,#
+     main="チョコレートブランドの銘柄選択理由",#
+     cex=0.6, ylab="銘柄選択理由", xlab="ブランド")
+#デンドログラム#
+plot(cfreq.ihc, labels=colnames(cfreq), hang=-1,#
+     main="チョコレートブランドの銘柄選択理由",#
+     cex=0.6, ylab="銘柄選択理由", xlab="ブランド")
+#デンドログラム#
+plot(cfreq.ihc, labels=colnames, hang=-1,#
+     main="チョコレートブランドの銘柄選択理由",#
+     cex=0.6, ylab="銘柄選択理由", xlab="ブランド")
+#デンドログラム#
+plot(cfreq.ihc, labels=colnames(cfreq), hang=-1,#
+     main="チョコレートブランドの銘柄選択理由",#
+     cex=0.6, ylab="銘柄選択理由", xlab="ブランド")
+#デンドログラム#
+plot(cfreq.ihc, hang=-1,#
+     main="チョコレートブランドの銘柄選択理由",#
+     cex=0.6, ylab="銘柄選択理由", xlab="ブランド")
+#デンドログラム#
+plot(cfreq.ihc, labels=cfreq[,1], hang=-1,#
+     main="チョコレートブランドの銘柄選択理由",#
+     cex=0.6, ylab="銘柄選択理由", xlab="ブランド")
+#デンドログラム#
+plot(cfreq.ihc, labels=colnames(cfreq), hang=-1,#
+     main="チョコレートブランドの銘柄選択理由",#
+     cex=0.6, ylab="銘柄選択理由", xlab="ブランド")
+#デンドログラム#
+plot(cfreq.ihc, labels=rownames(cfreq)[,1], hang=-1,#
+     main="チョコレートブランドの銘柄選択理由",#
+     cex=0.6, ylab="銘柄選択理由", xlab="ブランド")
+#デンドログラム#
+plot(cfreq.ihc, labels=cfreq[,1], hang=-1,#
+     main="チョコレートブランドの銘柄選択理由",#
+     cex=0.6, ylab="銘柄選択理由", xlab="ブランド")
+#デンドログラム#
+plot(cfreq.ihc, #
+     labels=c("明治ミルク", "ブラック", "効果", "ライフ", "ノワール"#
+              , "森永ミルク", "カレ・ド", "ダース", "カカオの恵み", "アッセ"#
+              , "ガーナ", "紗々", "刻みカカオ", "シャルロッテ", "エアーズ"#
+              , "GABA", "アロマーモ", "バンホーテン", "エアロ"), #
+     hang=-1, main="チョコレートブランドの銘柄選択理由",#
+     cex=0.6, ylab="銘柄選択理由", xlab="ブランド")
+source("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R", encoding="EUC-JP")#
+#
+#データ#
+cfreq <- as.matrix(read.table("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv"#
+                    , header=FALSE, sep=",", nrows=-1))#
+#
+colnames(cfreq) <- c("値ごろ", "味", "カロリー", "カカオ", "新製品"#
+                     , "ブランド", "パッケージ",  "メーカー", "広告", "評判")#
+rownames(cfreq) <- c("明治ミルク", "ブラック", "効果", "ライフ", "ノワール"#
+                     , "森永ミルク", "カレ・ド", "ダース", "カカオの恵み", "アッセ"#
+                     , "ガーナ", "紗々", "刻みカカオ", "シャルロッテ", "エアーズ"#
+                     , "GABA", "アロマーモ", "バンホーテン", "エアロ")#
+cfreq#
+#
+#クラスター形成の経過#
+cfreq.ihc <- kuiClust(cfreq)#
+kuiCpr(cfreq.ihc)#
+#
+#デンドログラム#
+plot(cfreq.ihc, #
+     labels=c("明治ミルク", "ブラック", "効果", "ライフ", "ノワール"#
+              , "森永ミルク", "カレ・ド", "ダース", "カカオの恵み", "アッセ"#
+              , "ガーナ", "紗々", "刻みカカオ", "シャルロッテ", "エアーズ"#
+              , "GABA", "アロマーモ", "バンホーテン", "エアロ"), #
+     hang=-1, main="チョコレートブランドの銘柄選択理由",#
+     cex=0.6, ylab="銘柄選択理由", xlab="ブランド")#
+#
+#クラスター数の決定#
+n.clst <- c(length(cfreq.ihc$height):1)#
+plot(n.clst, cfreq.ihc[[2]], type="b",#
+     pch=20, ps=5, lwd=0.5,#
+     xlab="クラスター数", ylab="潜在情報量", main="チョコレートブランドの銘柄選択理由")
+#クラスター番号のマージ#
+iclst <- cutree(cfreq.ihc, k=7)#
+iclst#
+#
+cfreq1 <- cbind(cfreq, iclst)#
+cfreq1.sorted <- cfreq1[sort.list(cfreq1$iclst),]#
+cfreq1.sorted
+is.vector(iclst)
+#クラスター番号のマージ#
+iclst <- cutree(cfreq.ihc, k=7)#
+iclst#
+#
+cfreq1 <- cbind(cfreq, iclst)#
+cfreq1.sorted <- cfreq1[order(cfreq1$iclst),]#
+cfreq1.sorted
+#クラスター番号のマージ#
+iclst <- cutree(cfreq.ihc, k=7)#
+iclst#
+#
+cfreq1 <- cbind(cfreq, iclst)#
+cfreq1.sorted <- cfreq1[sort.list(cfreq1$iclst),]#
+cfreq1.sorted
+is.vector(iclst)
+iclst2 <- c(1, 2, 3, 4, 5, 1, 5, 6, 3, 6, 1, 6, 3, 7, 6, 3, 1, 5, 4)
+#クラスター番号のマージ#
+iclst <- cutree(cfreq.ihc, k=7)#
+iclst#
+#
+cfreq1 <- cbind(cfreq, iclst)#
+cfreq1.sorted <- cfreq1[sort.list(cfreq1$iclst2),]#
+cfreq1.sorted
+source("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R", encoding="EUC-JP")#
+#
+#データ#
+cfreq <- as.matrix(read.table("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv"#
+                    , header=FALSE, sep=",", nrows=-1))#
+cfreq0 <- read.csv("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv", header=T, nrows=-1)#
+#
+colnames(cfreq) <- c("値ごろ", "味", "カロリー", "カカオ", "新製品"#
+                     , "ブランド", "パッケージ",  "メーカー", "広告", "評判")#
+rownames(cfreq) <- c("明治ミルク", "ブラック", "効果", "ライフ", "ノワール"#
+                     , "森永ミルク", "カレ・ド", "ダース", "カカオの恵み", "アッセ"#
+                     , "ガーナ", "紗々", "刻みカカオ", "シャルロッテ", "エアーズ"#
+                     , "GABA", "アロマーモ", "バンホーテン", "エアロ")#
+cfreq#
+#
+#クラスター形成の経過#
+cfreq.ihc <- kuiClust(cfreq)#
+kuiCpr(cfreq.ihc)#
+#
+#デンドログラム#
+plot(cfreq.ihc, #
+     labels=c("明治ミルク", "ブラック", "効果", "ライフ", "ノワール"#
+              , "森永ミルク", "カレ・ド", "ダース", "カカオの恵み", "アッセ"#
+              , "ガーナ", "紗々", "刻みカカオ", "シャルロッテ", "エアーズ"#
+              , "GABA", "アロマーモ", "バンホーテン", "エアロ"), #
+     hang=-1, main="チョコレートブランドの銘柄選択理由",#
+     cex=0.6, ylab="銘柄選択理由", xlab="ブランド")#
+#
+#クラスター数の決定#
+n.clst <- c(length(cfreq.ihc$height):1)#
+plot(n.clst, cfreq.ihc[[2]], type="b",#
+     pch=20, ps=5, lwd=0.5,#
+     xlab="クラスター数", ylab="潜在情報量", main="チョコレートブランドの銘柄選択理由")#
+#
+#クラスター番号のマージ#
+iclst <- cutree(cfreq.ihc, k=7)#
+iclst#
+#
+cfreq1 <- cbind(cfreq0, iclst)#
+cfreq1.sorted <- cfreq1[sort.list(cfreq1$iclst),]#
+cfreq1.sorted
+#クラスターごとの平均値#
+result <- by(cfreq1[,c(2:5)], cfreq1$iclst, colMeans, na.rm=T)#
+atable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  atable <- rbind(atable, result[[j]])#
+  rownames(atable)[j] <- paste("cluster:", j)#
+}; rownames(atable)[1] <- paste("cluster:", 1)#
+#
+round(atable, 1)
+iclst <- cutree(cfreq.ihc, k=7)#
+iclst#
+cfreq1 <- cbind(cfreq0, iclst)
+iclst <- cutree(cfreq.ihc, k=7)#
+iclst#
+cfreq1 <- cbind(cfreq, iclst)
+#クラスターごとの平均値#
+result <- by(cfreq1[,c(2:5)], cfreq1$iclst, colMeans, na.rm=T)#
+atable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  atable <- rbind(atable, result[[j]])#
+  rownames(atable)[j] <- paste("cluster:", j)#
+}; rownames(atable)[1] <- paste("cluster:", 1)#
+#
+round(atable, 1)
+#クラスターごとの特化係数#
+result <- by(cfreq1[,c(2:5)], cfreq1$iclst, colSums, na.rm=T)#
+btable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  btable <- rbind(btable, result[[j]])#
+  rownames(btable)[j] <- paste("cluster:", j)#
+}; rownames(btable)[1] <- paste("cluster:", j)#
+#
+btable <- kusi(btable[,2:4])#
+round(btable, 2)
+ource("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R", encoding="EUC-JP")#
+#
+#データ#
+cfreq <- as.matrix(read.table("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv"#
+                    , header=FALSE, sep=",", nrows=-1))#
+cfreq0 <- read.csv("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv", header=T, nrows=-1)#
+#
+colnames(cfreq) <- c("値ごろ", "味", "カロリー", "カカオ", "新製品"#
+                     , "ブランド", "パッケージ",  "メーカー", "広告", "評判")#
+rownames(cfreq) <- c("明治ミルク", "ブラック", "効果", "ライフ", "ノワール"#
+                     , "森永ミルク", "カレ・ド", "ダース", "カカオの恵み", "アッセ"#
+                     , "ガーナ", "紗々", "刻みカカオ", "シャルロッテ", "エアーズ"#
+                     , "GABA", "アロマーモ", "バンホーテン", "エアロ")#
+cfreq
+source("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R", encoding="EUC-JP")#
+#
+#データ#
+cfreq <- as.matrix(read.table("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv"#
+                    , header=FALSE, sep=",", nrows=-1))#
+cfreq0 <- read.csv("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv", header=T, nrows=-1)#
+#
+colnames(cfreq) <- c("値ごろ", "味", "カロリー", "カカオ", "新製品"#
+                     , "ブランド", "パッケージ",  "メーカー", "広告", "評判")#
+rownames(cfreq) <- c("明治ミルク", "ブラック", "効果", "ライフ", "ノワール"#
+                     , "森永ミルク", "カレ・ド", "ダース", "カカオの恵み", "アッセ"#
+                     , "ガーナ", "紗々", "刻みカカオ", "シャルロッテ", "エアーズ"#
+                     , "GABA", "アロマーモ", "バンホーテン", "エアロ")#
+cfreq
+cfreq.ihc <- kuiClust(cfreq)#
+kuiCpr(cfreq.ihc)
+#デンドログラム#
+plot(cfreq.ihc, #
+     labels=c("明治ミルク", "ブラック", "効果", "ライフ", "ノワール"#
+              , "森永ミルク", "カレ・ド", "ダース", "カカオの恵み", "アッセ"#
+              , "ガーナ", "紗々", "刻みカカオ", "シャルロッテ", "エアーズ"#
+              , "GABA", "アロマーモ", "バンホーテン", "エアロ"), #
+     hang=-1, main="チョコレートブランドの銘柄選択理由",#
+     cex=0.6, ylab="銘柄選択理由", xlab="ブランド")
+#クラスター数の決定#
+n.clst <- c(length(cfreq.ihc$height):1)#
+plot(n.clst, cfreq.ihc[[2]], type="b",#
+     pch=20, ps=5, lwd=0.5,#
+     xlab="クラスター数", ylab="潜在情報量", main="チョコレートブランドの銘柄選択理由")
+#クラスター番号のマージ#
+iclst <- cutree(cfreq.ihc, k=7)#
+iclst#
+#
+cfreq1 <- as.data.frame(cbind(cfreq, iclst))#
+cfreq1.sorted <- cfreq1[sort.list(cfreq1$iclst),]#
+cfreq1.sorted
+#クラスターごとの平均値#
+result <- by(cfreq1[,c(2:5)], cfreq1$iclst, colMeans, na.rm=T)#
+atable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  atable <- rbind(atable, result[[j]])#
+  rownames(atable)[j] <- paste("cluster:", j)#
+}; rownames(atable)[1] <- paste("cluster:", 1)#
+round(atable, 1)
+#クラスターごとの特化係数#
+result <- by(cfreq1[,c(2:5)], cfreq1$iclst, colSums, na.rm=T)#
+btable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  btable <- rbind(btable, result[[j]])#
+  rownames(btable)[j] <- paste("cluster:", j)#
+}; rownames(btable)[1] <- paste("cluster:", j)
+btable <- kusi(btable[,2:4])#
+round(btable, 2)
+result <- by(cfreq1[,c(2:5)], cfreq1$iclst, colSums, na.rm=T)#
+btable <- result[[1]]#
+for (j in 1:nrow(result)) {#
+  btable <- rbind(btable, result[[j]])#
+  rownames(btable)[j] <- paste("cluster:", j)#
+}; rownames(btable)[1] <- paste("cluster:", j)#
+btable <- kusi(btable[,2:4])#
+round(btable, 2)
+#クラスターごとの特化係数#
+result <- by(cfreq1[,c(2:5)], cfreq1$iclst, colSums, na.rm=T)#
+btable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  btable <- rbind(btable, result[[j]])#
+  rownames(btable)[j] <- paste("cluster:", j)#
+}; rownames(btable)[1] <- paste("cluster:", 1)#
+btable <- kusi(btable[,2:4])#
+round(btable, 2)
+source("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R", encoding="EUC-JP")#
+#
+#データ#
+cfreq <- as.matrix(read.table("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv"#
+                    , header=FALSE, sep=",", nrows=-1))#
+#
+colnames(cfreq) <- c("値ごろ", "味", "カロリー", "カカオ", "新製品"#
+                     , "ブランド", "パッケージ",  "メーカー", "広告", "評判")#
+rownames(cfreq) <- c("明治ミルク", "ブラック", "効果", "ライフ", "ノワール"#
+                     , "森永ミルク", "カレ・ド", "ダース", "カカオの恵み", "アッセ"#
+                     , "ガーナ", "紗々", "刻みカカオ", "シャルロッテ", "エアーズ"#
+                     , "GABA", "アロマーモ", "バンホーテン", "エアロ")#
+#
+#クラスター形成の経過#
+cfreq.ihc <- kuiClust(cfreq)#
+kuiCpr(cfreq.ihc)
+cfreq
+food0 <- read.csv("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/P142ex3.csv", header=T, nrows=-1)
+food0 <- read.csv("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/P142ex3-utf8.csv", header=T, nrows=-1)
+food <- as.matrix(food0[,c(3:5)])
+food0
+food
+source("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R", encoding="EUC-JP")#
+#
+#データ#
+cfreq <- as.matrix(read.table("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv"#
+                    , header=FALSE, sep=",", nrows=-1))#
+#
+colnames(cfreq) <- c("値ごろ",     "味",          "カロリー"    , "カカオ",       "新製品"#
+                   , "ブランド",   "パッケージ",  "メーカー",     "広告",         "評判")#
+rownames(cfreq) <- c("明治ミルク", "ブラック",    "効果",         "ライフ",       "ノワール"#
+                   , "森永ミルク", "カレ・ド",    "ダース",       "カカオの恵み", "アッセ"#
+                   , "ガーナ",     "紗々",        "刻みカカオ",   "シャルロッテ", "エアーズ"#
+                   , "GABA",       "アロマーモ",  "バンホーテン", "エアロ")
+cfreq
+source("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R", encoding="EUC-JP")#
+#
+#データ#
+cfreq <- as.matrix(read.table("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv"#
+                    , header=FALSE, sep=",", nrows=-1))#
+#
+colnames(cfreq) <- c("値ごろ    ", "味        ", "カロリー    ", "カカオ      ", "新製品  "#
+                   , "ブランド  ", "パッケージ", "メーカー    ", "広告        ", "評判    ")#
+rownames(cfreq) <- c("明治ミルク", "ブラック  ", "効果        ", "ライフ      ", "ノワール"#
+                   , "森永ミルク", "カレ・ド  ", "ダース      ", "カカオの恵み", "アッセ  "#
+                   , "ガーナ    ", "紗々      ", "刻みカカオ  ", "シャルロッテ", "エアーズ"#
+                   , "GABA      ", "アロマーモ", "バンホーテン", "エアロ      ")
+cfreq
+source("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R", encoding="EUC-JP")#
+#
+#データ#
+cfreq <- as.matrix(read.table("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv"#
+                    , header=FALSE, sep=",", nrows=-1))#
+#
+colnames(cfreq) <- c("値ごろ",     "味",          "カロリー"    , "カカオ",       "新製品"#
+                   , "ブランド",   "パッケージ",  "メーカー",     "広告",         "評判")#
+rownames(cfreq) <- c("明治ミルク", "ブラック",    "効果",         "ライフ",       "ノワール"#
+                   , "森永ミルク", "カレ・ド",    "ダース",       "カカオの恵み", "アッセ"#
+                   , "ガーナ",     "紗々",        "刻みカカオ",   "シャルロッテ", "エアーズ"#
+                   , "GABA",       "アロマーモ",  "バンホーテン", "エアロ")
+cfreq
+food0
+cfreq
+source("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R", encoding="EUC-JP")#
+#
+#データ#
+cfreq <- as.matrix(read.table("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv"#
+                    , header=FALSE, sep=",", nrows=-1))#
+#
+colnames(cfreq) <- c("値ごろ",     "味",          "カロリー"    , "カカオ",       "新製品"#
+                   , "ブランド",   "パッケージ",  "メーカー",     "広告",         "評判")#
+rownames(cfreq) <- c("明治ミルク", "ブラック",    "効果",         "ライフ",       "ノワール"#
+                   , "森永ミルク", "カレ・ド",    "ダース",       "カカオの恵み", "アッセ"#
+                   , "ガーナ",     "紗々",        "刻みカカオ",   "シャルロッテ", "エアーズ"#
+                   , "GABA",       "アロマーモ",  "バンホーテン", "エアロ")#
+#
+#クラスター形成の経過#
+cfreq.ihc <- kuiClust(cfreq)#
+kuiCpr(cfreq.ihc)
+#デンドログラム#
+plot(cfreq.ihc, #
+     labels= c("明治ミルク", "ブラック",    "効果",         "ライフ",       "ノワール"#
+             , "森永ミルク", "カレ・ド",    "ダース",       "カカオの恵み", "アッセ"#
+             , "ガーナ",     "紗々",        "刻みカカオ",   "シャルロッテ", "エアーズ"#
+             , "GABA",       "アロマーモ",  "バンホーテン", "エアロ"),#
+     hang=-1, main="チョコレートブランドの銘柄選択理由",#
+     cex=0.6, ylab="銘柄選択理由", xlab="ブランド")
+#クラスター数の決定#
+n.clst <- c(length(cfreq.ihc$height):1)#
+plot(n.clst, cfreq.ihc[[2]], type="b",#
+     pch=20, ps=5, lwd=0.5,#
+     xlab="クラスター数", ylab="潜在情報量", main="チョコレートブランドの銘柄選択理由")
+#クラスター番号のマージ#
+iclst <- cutree(cfreq.ihc, k=7)#
+iclst#
+cfreq1 <- as.data.frame(cbind(cfreq, iclst))#
+cfreq1.sorted <- cfreq1[sort.list(cfreq1$iclst),]#
+cfreq1.sorted
+#クラスター数の決定#
+n.clst <- c(length(cfreq.ihc$height):1)#
+plot(n.clst, cfreq.ihc[[2]], type="b",#
+     pch=20, ps=5, lwd=0.5,#
+     xlab="クラスター数", ylab="潜在情報量", main="チョコレートブランドの銘柄選択理由")
+#クラスター番号のマージ#
+iclst <- cutree(cfreq.ihc, k=5)#
+iclst#
+cfreq1 <- as.data.frame(cbind(cfreq, iclst))#
+cfreq1.sorted <- cfreq1[sort.list(cfreq1$iclst),]#
+cfreq1.sorted
+result <- by(cfreq1[,c(2:5)], cfreq1$iclst, colSums, na.rm=T)#
+btable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  btable <- rbind(btable, result[[j]])#
+  rownames(btable)[j] <- paste("cluster:", j)#
+}; rownames(btable)[1] <- paste("cluster:", 1)#
+btable <- kusi(btable[,2:4])#
+round(btable, 2)
+result <- by(cfreq1[,c(2:7)], cfreq1$iclst, colSums, na.rm=T)#
+btable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  btable <- rbind(btable, result[[j]])#
+  rownames(btable)[j] <- paste("cluster:", j)#
+}; rownames(btable)[1] <- paste("cluster:", 1)#
+btable <- kusi(btable[,2:4])#
+round(btable, 2)
+result <- by(cfreq1[,c(2:7)], cfreq1$iclst, colSums, na.rm=T)#
+btable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  btable <- rbind(btable, result[[j]])#
+  rownames(btable)[j] <- paste("cluster:", j)#
+}; rownames(btable)[1] <- paste("cluster:", 1)#
+btable <- kusi(btable[,1:10])#
+round(btable, 2)
+result <- by(cfreq1[,c(2:7)], cfreq1$iclst, colSums, na.rm=T)#
+btable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  btable <- rbind(btable, result[[j]])#
+  rownames(btable)[j] <- paste("cluster:", j)#
+}; rownames(btable)[1] <- paste("cluster:", 1)#
+btable <- kusi(btable[,0:10])#
+round(btable, 2)
+result <- by(cfreq1[,c(2:5)], cfreq1$iclst, colSums, na.rm=T)#
+btable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  btable <- rbind(btable, result[[j]])#
+  rownames(btable)[j] <- paste("cluster:", j)#
+}; rownames(btable)[1] <- paste("cluster:", 1)#
+btable <- kusi(btable[,2:4])#
+round(btable, 1)
+result <- by(cfreq1[,c(2:7)], cfreq1$iclst, colSums, na.rm=T)#
+btable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  btable <- rbind(btable, result[[j]])#
+  rownames(btable)[j] <- paste("cluster:", j)#
+}; rownames(btable)[1] <- paste("cluster:", 1)#
+btable <- kusi(btable[,2:4])#
+round(btable, 2)
+result <- by(cfreq1[,c(2:4)], cfreq1$iclst, colSums, na.rm=T)#
+btable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  btable <- rbind(btable, result[[j]])#
+  rownames(btable)[j] <- paste("cluster:", j)#
+}; rownames(btable)[1] <- paste("cluster:", 1)#
+btable <- kusi(btable[,2:4])#
+round(btable, 2)
+source("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R", encoding="EUC-JP")#
+#
+#データ#
+cfreq <- as.matrix(read.table("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv"#
+                    , header=FALSE, sep=",", nrows=-1))#
+#
+colnames(cfreq) <- c("値ごろ",     "味",          "カロリー"    , "カカオ",       "新製品"#
+                   , "ブランド",   "パッケージ",  "メーカー",     "広告",         "評判")#
+rownames(cfreq) <- c("明治ミルク", "ブラック",    "効果",         "ライフ",       "ノワール"#
+                   , "森永ミルク", "カレ・ド",    "ダース",       "カカオの恵み", "アッセ"#
+                   , "ガーナ",     "紗々",        "刻みカカオ",   "シャルロッテ", "エアーズ"#
+                   , "GABA",       "アロマーモ",  "バンホーテン", "エアロ")#
+#
+#クラスター形成の経過#
+cfreq.ihc <- kuiClust(cfreq)#
+kuiCpr(cfreq.ihc)#
+#
+#デンドログラム#
+plot(cfreq.ihc, #
+     labels= c("明治ミルク", "ブラック",    "効果",         "ライフ",       "ノワール"#
+             , "森永ミルク", "カレ・ド",    "ダース",       "カカオの恵み", "アッセ"#
+             , "ガーナ",     "紗々",        "刻みカカオ",   "シャルロッテ", "エアーズ"#
+             , "GABA",       "アロマーモ",  "バンホーテン", "エアロ"),#
+     hang=-1, main="チョコレートブランドの銘柄選択理由",#
+     cex=0.6, ylab="銘柄選択理由", xlab="ブランド")#
+#
+#クラスター数の決定#
+n.clst <- c(length(cfreq.ihc$height):1)#
+plot(n.clst, cfreq.ihc[[2]], type="b",#
+     pch=20, ps=5, lwd=0.5,#
+     xlab="クラスター数", ylab="潜在情報量", main="チョコレートブランドの銘柄選択理由")#
+#
+#クラスター番号のマージ#
+iclst <- cutree(cfreq.ihc, k=7)#
+iclst#
+cfreq1 <- as.data.frame(cbind(cfreq, iclst))#
+cfreq1.sorted <- cfreq1[sort.list(cfreq1$iclst),]#
+cfreq1.sorted#
+#
+#クラスターごとの平均値#
+result <- by(cfreq1[,c(2:5)], cfreq1$iclst, colMeans, na.rm=T)#
+atable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  atable <- rbind(atable, result[[j]])#
+  rownames(atable)[j] <- paste("cluster:", j)#
+}; rownames(atable)[1] <- paste("cluster:", 1)#
+round(atable, 1)#
+#
+#クラスターごとの特化係数#
+result <- by(cfreq1[,c(2:5)], cfreq1$iclst, colSums, na.rm=T)#
+btable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  btable <- rbind(btable, result[[j]])#
+  rownames(btable)[j] <- paste("cluster:", j)#
+}; rownames(btable)[1] <- paste("cluster:", 1)#
+btable <- kusi(btable[,2:4])#
+round(btable, 2)
+#クラスターごとの特化係数#
+result <- by(cfreq1[,c(2:5)], cfreq1$iclst, colSums, na.rm=T)#
+btable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  btable <- rbind(btable, result[[j]])#
+  rownames(btable)[j] <- paste("cluster:", j)#
+}; rownames(btable)[1] <- paste("cluster:", 1)#
+btable <- kusi(btable[,1:4])#
+round(btable, 2)
+#クラスターごとの特化係数#
+result <- by(cfreq1[,c(1:5)], cfreq1$iclst, colSums, na.rm=T)#
+btable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  btable <- rbind(btable, result[[j]])#
+  rownames(btable)[j] <- paste("cluster:", j)#
+}; rownames(btable)[1] <- paste("cluster:", 1)#
+btable <- kusi(btable[,2:4])#
+round(btable, 2)
+#クラスターごとの特化係数#
+result <- by(cfreq1[c(1:5)], cfreq1$iclst, colSums, na.rm=T)#
+btable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  btable <- rbind(btable, result[[j]])#
+  rownames(btable)[j] <- paste("cluster:", j)#
+}; rownames(btable)[1] <- paste("cluster:", 1)#
+btable <- kusi(btable[,2:4])#
+round(btable, 2)
+#クラスターごとの特化係数#
+result <- by(cfreq1[c(2:5)], cfreq1$iclst, colSums, na.rm=T)#
+btable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  btable <- rbind(btable, result[[j]])#
+  rownames(btable)[j] <- paste("cluster:", j)#
+}; rownames(btable)[1] <- paste("cluster:", 1)#
+btable <- kusi(btable[,2:4])#
+round(btable, 2)
+#クラスターごとの特化係数#
+result <- by(cfreq1[c(0:5)], cfreq1$iclst, colSums, na.rm=T)#
+btable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  btable <- rbind(btable, result[[j]])#
+  rownames(btable)[j] <- paste("cluster:", j)#
+}; rownames(btable)[1] <- paste("cluster:", 1)#
+btable <- kusi(btable[,2:4])#
+round(btable, 2)
+#クラスターごとの特化係数#
+result <- by(cfreq1[c(0:5)], cfreq1$iclst, colSums, na.rm=T)#
+btable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  btable <- rbind(btable, result[[j]])#
+  rownames(btable)[j] <- paste("cluster:", j)#
+}; rownames(btable)[1] <- paste("cluster:", 1)#
+btable <- kusi(btable[,0:4])#
+round(btable, 2)
+#クラスターごとの特化係数#
+result <- by(cfreq1[c(0:10)], cfreq1$iclst, colSums, na.rm=T)#
+btable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  btable <- rbind(btable, result[[j]])#
+  rownames(btable)[j] <- paste("cluster:", j)#
+}; rownames(btable)[1] <- paste("cluster:", 1)#
+btable <- kusi(btable[,0:10])#
+round(btable, 2)
+iclst <- cutree(cfreq.ihc, k=5)
+#クラスターごとの特化係数#
+result <- by(cfreq1[c(0:10)], cfreq1$iclst, colSums, na.rm=T)#
+btable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  btable <- rbind(btable, result[[j]])#
+  rownames(btable)[j] <- paste("cluster:", j)#
+}; rownames(btable)[1] <- paste("cluster:", 1)#
+btable <- kusi(btable[,0:10])#
+round(btable, 2)
+iclst <- cutree(cfreq.ihc, k=5)
+#クラスターごとの特化係数#
+result <- by(cfreq1[c(0:10)], cfreq1$iclst, colSums, na.rm=T)#
+btable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  btable <- rbind(btable, result[[j]])#
+  rownames(btable)[j] <- paste("cluster:", j)#
+}; rownames(btable)[1] <- paste("cluster:", 1)#
+btable <- kusi(btable[,0:10])#
+round(btable, 2)
+cfreq1 <- as.data.frame(cbind(cfreq, iclst))
+#クラスターごとの特化係数#
+result <- by(cfreq1[c(0:10)], cfreq1$iclst, colSums, na.rm=T)#
+btable <- result[[1]]#
+for (j in 2:nrow(result)) {#
+  btable <- rbind(btable, result[[j]])#
+  rownames(btable)[j] <- paste("cluster:", j)#
+}; rownames(btable)[1] <- paste("cluster:", 1)#
+btable <- kusi(btable[,0:10])#
+round(btable, 2)
+source("http://aoki2.si.gunma-u.ac.jp/R/src/all.R", encoding="euc-jp")#
+#
+facutly <- matrix(c(#
+  1,  300,#
+  1,  178,#
+  1,  965,#
+  1,  660,#
+  1,  772,#
+  1,  500,#
+  1, 1100,#
+  1,  535,#
+  1, 1141,#
+  1,  260,#
+  1, 1000,#
+  1,  772,#
+  1, 1739,#
+  2, 2000,#
+  2,  350,#
+  2, 1100,#
+  2,  600,#
+  2,  178,#
+  2,  899,#
+  2,  800,#
+  2,  597,#
+  2,  597,#
+  2,  943,#
+  2,  723,#
+  2,  649,#
+  2,  180,#
+  2,  807,#
+  3,  492,#
+  3,  800#
+  ), ncol=2, byrow=TRUE)#
+#
+correlation.ration(faculty[,2], faculty[,1])
+correlation.ratio(faculty[,2], faculty[,1])
+facutly <- matrix(c(#
+  1,  300,#
+  1,  178,#
+  1,  965,#
+  1,  660,#
+  1,  772,#
+  1,  500,#
+  1, 1100,#
+  1,  535,#
+  1, 1141,#
+  1,  260,#
+  1, 1000,#
+  1,  772,#
+  1, 1739,#
+  2, 2000,#
+  2,  350,#
+  2, 1100,#
+  2,  600,#
+  2,  178,#
+  2,  899,#
+  2,  800,#
+  2,  597,#
+  2,  597,#
+  2,  943,#
+  2,  723,#
+  2,  649,#
+  2,  180,#
+  2,  807,#
+  3,  492,#
+  3,  800#
+  ), ncol=2, byrow=TRUE)
+correlation.ratio(faculty[,2], faculty[,1])
+faculrty
+faculty
+transfer <- matrix(c(#
+  1,  300, 1,  178, 1,  178, 1,  500, 1,  260, 1,  723, 1,  180,#
+  2, 2000, 2,  350, 2,  597, 2,  492,#
+  3,  660, 3,  600, 3,  800, 3, 1100, 3,  535, 3,  597, 3, 1141, 3,  943, 3, 1000, 3,  800, 3,  649, 3,  772, 3,  807, 3, 1739,#
+  4,  965, 4, 1100, 4,  899,#
+  5,  772#
+  ), ncol=2, byrow=TRUE)#
+correlation.ratio(transfer[,2], transfer[,1])
+source("http://aoki2.si.gunma-u.ac.jp/R/src/all.R", encoding="euc-jp")
+transfer <- matrix(c(#
+  1,  300, 1,  178, 1,  178, 1,  500, 1,  260, 1,  723, 1,  180,#
+  2, 2000, 2,  350, 2,  597, 2,  492,#
+  3,  660, 3,  600, 3,  800, 3, 1100, 3,  535, 3,  597, 3, 1141, 3,  943, 3, 1000, 3,  800, 3,  649, 3,  772, 3,  807, 3, 1739,#
+  4,  965, 4, 1100, 4,  899,#
+  5,  772#
+  ), ncol=2, byrow=TRUE)#
+correlation.ratio(transfer[,2], transfer[,1])
+walk <- matrix(c(#
+  1,  300, 1,  350, 1,  772, 1, 1100, 1,  600, 1,  500, 1,  899, 1, 1100, 1, 1141, 1,  492, 1,  943, 1,  260, 1, 1000, 1,  772,#
+  2, 2000, 2,  965, 2,  660, 2,  535, 2,  597, 2,  597, 2,  723, 2,  800, 2,  649, 2,  180, 2, 1739,#
+  3,  178, 3,  800,#
+  4,  178, 4,  807#
+))#
+correlation.ratio(walk[,2], walk[,1])
+walk <- matrix(c(#
+  1,  300, 1,  350, 1,  772, 1, 1100, 1,  600, 1,  500, 1,  899, 1, 1100, 1, 1141, 1,  492, 1,  943, 1,  260, 1, 1000, 1,  772,#
+  2, 2000, 2,  965, 2,  660, 2,  535, 2,  597, 2,  597, 2,  723, 2,  800, 2,  649, 2,  180, 2, 1739,#
+  3,  178, 3,  800,#
+  4,  178, 4,  807#
+  ), ncol=2, byrow=TRUE)
+walk
+correlation.ratio(walk[,2], walk[,1])
+type <- matrix(c(#
+  1,  300, 1, 2000, 1,  178, 1,  350, 1,  660, 1,  772, 1, 1100, 1,  600, 1,  178, 1,  500, 1,  800, 1, 1100, 1,  535, 1,  597, 1,  597, 1, 1141, 1,  943, 1,  260, 1,  723, 1, 1000, 1,  772, 1,  807, 1, 1739,#
+  2,  965, 2,  899, 2,  492, 2,  800, 2,  649, 2,  180#
+  ), ncol=2, byrow=TRUE)#
+correlation.ratio(type[,2], type[,1])
+show <- matrix(c(#
+  1,  300, 1,  350, 1,  660, 1,  772, 1, 1100, 1,  500, 1,  899, 1,  597, 1, 1141, 1,  492, 1,  943, 1,  260, 1, 1000, 1,  800, 1,  649,#
+  2, 2000, 2,  178, 2,  965, 2,  600, 2,  597, 2,  180, 2,  772, 2,  807,#
+  3,  178, 3,  800, 3,  535,#
+  4, 1100, 4,  723, 4, 1739#
+  ), ncol=2, byrow=TRUE)#
+correlation.ratio(show[,2], show[,1])
+rent <- matrix(c(#
+  1, 2000, 1,  899, 1, 1000,#
+  2,  178, 2,  965, 2,  350, 2,  660, 2, 1100, 2,  600, 2,  500, 2,  800, 2, 1100, 2,  535, 2,  597, 2,  597, 2, 1141, 2,  492, 2,  943, 2,  260, 2,  723, 2,  649, 2,  180, 2,  772, 2,  807, 2, 1739,#
+  3,  300, 3,  772, 3,  178, 3,  800#
+  ), ncol=2, byrow=TRUE)#
+correlation.ratio(rent[,2], rent[,1])
+rent
+colnames(faculty) <- c("所属", "交通費")#
+faculty <- as.data.frame(faculty)#
+faculty[,1] <- factor(faculty[,1], levels=c(1:3), labels=c("総合政策", "環境情報", "政策メディア"))#
+boxplot(交通費~学部, data=faculty, main="所属*交通費",#
+        xlab="所属", ylab="交通費", col="bisque")
+source("http://aoki2.si.gunma-u.ac.jp/R/src/all.R", encoding="euc-jp")#
+#
+faculty <- matrix(c(#
+  1,  300, 1,  178, 1,  965, 1,  660, 1,  772, 1,  500, 1, 1100, 1,  535, 1, 1141, 1,  260, 1, 1000, 1,  772, 1, 1739,#
+  2, 2000, 2,  350, 2, 1100, 2,  600, 2,  178, 2,  899, 2,  800, 2,  597, 2,  597, 2,  943, 2,  723, 2,  649, 2,  180, 2,  807,#
+  3,  492, 3,  800#
+  ), ncol=2, byrow=TRUE)#
+correlation.ratio(faculty[,2], faculty[,1])#
+#
+colnames(faculty) <- c("所属", "交通費")#
+faculty <- as.data.frame(faculty)#
+faculty[,1] <- factor(faculty[,1], levels=c(1:3), labels=c("総合政策", "環境情報", "政策メディア"))#
+boxplot(交通費~学部, data=faculty, main="所属*交通費",#
+        xlab="所属", ylab="交通費", col="bisque")
+source("http://aoki2.si.gunma-u.ac.jp/R/src/all.R", encoding="euc-jp")#
+#
+faculty <- matrix(c(#
+  1,  300, 1,  178, 1,  965, 1,  660, 1,  772, 1,  500, 1, 1100, 1,  535, 1, 1141, 1,  260, 1, 1000, 1,  772, 1, 1739,#
+  2, 2000, 2,  350, 2, 1100, 2,  600, 2,  178, 2,  899, 2,  800, 2,  597, 2,  597, 2,  943, 2,  723, 2,  649, 2,  180, 2,  807,#
+  3,  492, 3,  800#
+  ), ncol=2, byrow=TRUE)#
+correlation.ratio(faculty[,2], faculty[,1])#
+#
+colnames(faculty) <- c("所属", "交通費")#
+faculty <- as.data.frame(faculty)#
+faculty[,1] <- factor(faculty[,1], levels=c(1:3), labels=c("総合政策", "環境情報", "政策メディア"))#
+boxplot(交通費~所属, data=faculty, main="所属*交通費",#
+        xlab="所属", ylab="交通費", col="bisque")
+transfer <- matrix(c(#
+  1,  300, 1,  178, 1,  178, 1,  500, 1,  260, 1,  723, 1,  180,#
+  2, 2000, 2,  350, 2,  597, 2,  492,#
+  3,  660, 3,  600, 3,  800, 3, 1100, 3,  535, 3,  597, 3, 1141, 3,  943, 3, 1000, 3,  800, 3,  649, 3,  772, 3,  807, 3, 1739,#
+  4,  965, 4, 1100, 4,  899,#
+  5,  772#
+  ), ncol=2, byrow=TRUE)#
+correlation.ratio(transfer[,2], transfer[,1])#
+#
+colnames(transfer) <- c("乗り換え", "交通費")#
+transfer <- as.data.frame(tranfer)#
+transfer[,1] <- factor(transfer[,1], levels=c(1:5), labels=c("0回", "1回", "2回", "3回", "4回以上"))#
+boxplot(交通費~乗り換え, data=transfer, main="乗り換え*交通費",#
+           xlab="乗り換え", ylab="交通費", col="bisque")
+lines <- matrix(c(#
+  1,  300, 1,  178, 1,  178, 1,  500, 1,  260, 1,  723, 1,  180,#
+  2, 2000, 2,  350, 2,  600, 2,  597, 2,  492, 2,  800,#
+  3,  660, 3,  772, 3,  800, 3, 1100, 3,  535, 3,  597, 3, 1141, 3,  943, 3, 1000, 3,  649, 3,  772, 3,  807,#
+  4,  965, 4, 1100, 4,  899, 4, 1739#
+  ), ncol=2, byrow=TRUE)#
+correlation.ratio(lines[,2], lines[,1])#
+#
+colnames(lines) <- c("路線の数", "交通費")#
+lines <- as.data.frame(lines)#
+lines[,1] <- factor(lines[,1], levels=c(1:4), labels=c("1本", "2本", "3本", "4本以上"))#
+boxplot(交通費~路線の数, data=lines, main="路線の数*交通費"#
+        xlab="路線の数", ylab="交通費", col="bisque")
+lines <- matrix(c(#
+  1,  300, 1,  178, 1,  178, 1,  500, 1,  260, 1,  723, 1,  180,#
+  2, 2000, 2,  350, 2,  600, 2,  597, 2,  492, 2,  800,#
+  3,  660, 3,  772, 3,  800, 3, 1100, 3,  535, 3,  597, 3, 1141, 3,  943, 3, 1000, 3,  649, 3,  772, 3,  807,#
+  4,  965, 4, 1100, 4,  899, 4, 1739#
+  ), ncol=2, byrow=TRUE)#
+correlation.ratio(lines[,2], lines[,1])#
+#
+colnames(lines) <- c("路線の数", "交通費")#
+lines <- as.data.frame(lines)#
+lines[,1] <- factor(lines[,1], levels=c(1:4), labels=c("1本", "2本", "3本", "4本以上"))#
+boxplot(交通費~路線の数, data=lines, main="路線の数*交通費",#
+        xlab="路線の数", ylab="交通費", col="bisque")
+rent <- matrix(c(#
+  1,  965, 1,  660, 1, 1100, 1,  899, 1,  800, 1, 1100, 1,  535, 1,  597, 1,  597, 1, 1141, 1,  943, 1, 1000, 1,  649, 1,  807, 1, 1739,#
+  2,  492,#
+  3,  178, 3,  350, 3,  500, 3,  260, 3,  800, 3,  180, 3,  772,#
+  4,  300, 4,  600, 4,  178,#
+  5, 2000, 5,  772, 5,  723#
+), ncol=2, byrow=TRUE)#
+correlation.ratio(rent[,2], rent[,1])#
+#
+colnames(rent) <- c("下宿の家賃", "交通費")#
+rent <- as.data.frame(rent)#
+rent[,1] <- factor(rent[,1], levels=c(), rent=c("実家暮らし", "3~5万円", "5~8万円", "8~10万円", "10万円以上"))#
+boxplot(交通費~下宿の家賃, data=rent, main="下宿の家賃*交通費",#
+           xlab="下宿の家賃", ylab="交通費", col="bisque")
+rent <- matrix(c(#
+  1,  965, 1,  660, 1, 1100, 1,  899, 1,  800, 1, 1100, 1,  535, 1,  597, 1,  597, 1, 1141, 1,  943, 1, 1000, 1,  649, 1,  807, 1, 1739,#
+  2,  492,#
+  3,  178, 3,  350, 3,  500, 3,  260, 3,  800, 3,  180, 3,  772,#
+  4,  300, 4,  600, 4,  178,#
+  5, 2000, 5,  772, 5,  723#
+), ncol=2, byrow=TRUE)#
+correlation.ratio(rent[,2], rent[,1])#
+#
+colnames(rent) <- c("下宿の家賃", "交通費")#
+rent <- as.data.frame(rent)#
+rent[,1] <- factor(rent[,1], levels=c(1:5), rent=c("実家暮らし", "3~5万円", "5~8万円", "8~10万円", "10万円以上"))#
+boxplot(交通費~下宿の家賃, data=rent, main="下宿の家賃*交通費",#
+           xlab="下宿の家賃", ylab="交通費", col="bisque")
+rent <- matrix(c(#
+  1,  965, 1,  660, 1, 1100, 1,  899, 1,  800, 1, 1100, 1,  535, 1,  597, 1,  597, 1, 1141, 1,  943, 1, 1000, 1,  649, 1,  807, 1, 1739,#
+  2,  492,#
+  3,  178, 3,  350, 3,  500, 3,  260, 3,  800, 3,  180, 3,  772,#
+  4,  300, 4,  600, 4,  178,#
+  5, 2000, 5,  772, 5,  723#
+), ncol=2, byrow=TRUE)#
+correlation.ratio(rent[,2], rent[,1])#
+#
+colnames(rent) <- c("下宿の家賃", "交通費")#
+rent <- as.data.frame(rent)#
+rent[,1] <- factor(rent[,1], levels=c(1:5), levels=c("実家暮らし", "3~5万円", "5~8万円", "8~10万円", "10万円以上"))#
+boxplot(交通費~下宿の家賃, data=rent, main="下宿の家賃*交通費",#
+           xlab="下宿の家賃", ylab="交通費", col="bisque")
+colnames(rent) <- c("下宿の家賃", "交通費")#
+rent <- as.data.frame(rent)#
+rent[,1] <- factor(rent[,1], levels=c(1:5), labels=c("実家暮らし", "3~5万円", "5~8万円", "8~10万円", "10万円以上"))#
+boxplot(交通費~下宿の家賃, data=rent, main="下宿の家賃*交通費",#
+           xlab="下宿の家賃", ylab="交通費", col="bisque")
+rent <- matrix(c(#
+  1,  965, 1,  660, 1, 1100, 1,  899, 1,  800, 1, 1100, 1,  535, 1,  597, 1,  597, 1, 1141, 1,  943, 1, 1000, 1,  649, 1,  807, 1, 1739,#
+  2,  492,#
+  3,  178, 3,  350, 3,  500, 3,  260, 3,  800, 3,  180, 3,  772,#
+  4,  300, 4,  600, 4,  178,#
+  5, 2000, 5,  772, 5,  723#
+), ncol=2, byrow=TRUE)#
+correlation.ratio(rent[,2], rent[,1])#
+#
+colnames(rent) <- c("下宿の家賃", "交通費")#
+rent <- as.data.frame(rent)#
+rent[,1] <- factor(rent[,1], levels=c(1:5), labels=c("実家暮らし", "3~5万円", "5~8万円", "8~10万円", "10万円以上"))#
+boxplot(交通費~下宿の家賃, data=rent, main="下宿の家賃*交通費",#
+           xlab="下宿の家賃", ylab="交通費", col="bisque")
+walk <- matrix(c(#
+  1,  300, 1,  350, 1,  772, 1, 1100, 1,  600, 1,  500, 1,  899, 1, 1100, 1, 1141, 1,  492, 1,  943, 1,  260, 1, 1000, 1,  772,#
+  2, 2000, 2,  965, 2,  660, 2,  535, 2,  597, 2,  597, 2,  723, 2,  800, 2,  649, 2,  180, 2, 1739,#
+  3,  178, 3,  800,#
+  4,  178, 4,  807#
+  ), ncol=2, byrow=TRUE)#
+correlation.ratio(walk[,2], walk[,1])#
+#
+colnames(walk) <- c("徒歩での時間", "交通費")#
+walk <- as.data.frame(walk)#
+walk[,1] <- factor(walk[,1], levels=c(1:4), labels=c("10分未満", "10~20分", "20~30分", "30~40分"))#
+boxplot(交通費~徒歩での時間, data=walk, main="徒歩での時間*交通費",#
+        xlab="徒歩での時間", "交通費", col="bisque")
+type <- matrix(c(#
+  1,  300, 1, 2000, 1,  178, 1,  350, 1,  660, 1,  772, 1, 1100, 1,  600, 1,  178, 1,  500, 1,  800, 1, 1100, 1,  535, 1,  597, 1,  597, 1, 1141, 1,  943, 1,  260, 1,  723, 1, 1000, 1,  772, 1,  807, 1, 1739,#
+  2,  965, 2,  899, 2,  492, 2,  800, 2,  649, 2,  180#
+  ), ncol=2, byrow=TRUE)#
+correlation.ratio(type[,2], type[,1])#
+#
+colnames(type) <- c("入力方法", "交通費")#
+type <- as.data.frame(type)#
+type[,1] <- factor(type[,1], levels=c(1:2), labels=c("フリック入力", "フルキー入力"))#
+boxplot(交通費~入力方法, data=type, main="入力方法*交通費",#
+        xlab="入力方法", "交通費", col="bisque")
+show <- matrix(c(#
+  1,  300, 1,  350, 1,  660, 1,  772, 1, 1100, 1,  500, 1,  899, 1,  597, 1, 1141, 1,  492, 1,  943, 1,  260, 1, 1000, 1,  800, 1,  649,#
+  2, 2000, 2,  178, 2,  965, 2,  600, 2,  597, 2,  180, 2,  772, 2,  807,#
+  3,  178, 3,  800, 3,  535,#
+  4, 1100, 4,  723, 4, 1739#
+  ), ncol=2, byrow=TRUE)#
+correlation.ratio(show[,2], show[,1])#
+#
+colnames(show) <- c("大晦日に見る番組", "交通費")#
+show <- as.data.frame(show)#
+show[,1] <- factor(show[,1], levels=c(1:4), labels=c("紅白", "ガキ使", "RIJIN", "視聴しない"))#
+boxplot(交通費~大晦日に見る番組, data=show, main="大晦日に見る番組*交通費",#
+        xlab="大晦日に見る番組", ylab="交通費", col="bisque")
+food <- matrix(c(#
+  1, 2000, 1,  899, 1, 1000,#
+  2,  178, 2,  965, 2,  350, 2,  660, 2, 1100, 2,  600, 2,  500, 2,  800, 2, 1100, 2,  535, 2,  597, 2,  597, 2, 1141, 2,  492, 2,  943, 2,  260, 2,  723, 2,  649, 2,  180, 2,  772, 2,  807, 2, 1739,#
+  3,  300, 3,  772, 3,  178, 3,  800#
+  ), ncol=2, byrow=TRUE)#
+correlation.ratio(food[,2], food[,1])#
+#
+colnames(food) <- c("１ヶ月の食費", "交通費")#
+food <- as.data.frame(food)#
+food[,1] <- factor(food[,1], levels=c(1:3), labels=c("1万円以下", "1~5万円", "5万円以上"))#
+boxplot(交通費~１ヶ月の食費, data=food, main="１ヶ月の食費*交通費",#
+        xlab="１ヶ月の食費", ylab="交通費", col="bisque")
+transfer2 <- matrix(c(#
+  1,  300, 1,  178, 1,  178, 1,  500, 1,  260, 1,  723, 1,  180,#
+  2, 2000, 2,  350, 2,  597, 2,  492,#
+  3,  660, 3,  600, 3,  800, 3, 1100, 3,  535, 3,  597, 3, 1141, 3,  943, 3, 1000, 3,  800, 3,  649, 3,  772, 3,  807, 3, 1739,#
+  4,  965, 4, 1100, 4,  899, 4,  772#
+), ncol=2, byrow=TRUE)#
+correlation.ratio(transfer2[,2], transfer2[,1])
+transfer2 <- matrix(c(#
+  1,  300, 1,  178, 1,  178, 1,  500, 1,  260, 1,  723, 1,  180,#
+  2, 2000, 2,  350, 2,  597, 2,  492,#
+  3,  660, 3,  600, 3,  800, 3, 1100, 3,  535, 3,  597, 3, 1141, 3,  943, 3, 1000, 3,  800, 3,  649, 3,  772, 3,  807, 3, 1739,#
+  4,  965, 4, 1100, 4,  899, 4,  772#
+), ncol=2, byrow=TRUE)#
+correlation.ratio(transfer2[,2], transfer2[,1])#
+#
+colnames(transfer2) <- c("乗り換え", "交通費")#
+transfer2 <- as.data.frame(tranfer2)#
+transfer2[,1] <- factor(transfer2[,1], levels=c(1:4), labels=c("0回", "1回", "2回", "3回以上"))#
+boxplot(交通費~乗り換え, data=transfer2, main="乗り換え*交通費",#
+           xlab="乗り換え", ylab="交通費", col="bisque")
+source("http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/kuwahara18_Rlib.R", encoding="EUC-JP")
+transfer0 <- as.matrix(read.table(transfer, header=FALSE, sep=",", nrows=-1))
+transfer0 <- as.matrix(transfer)
+transfer0.ihs <- kuiClust(transfer0)
+kuiCpr(transfer0.ihc)
+transfer0.ihc <- kuiClust(transfer0)
+kuiCpr(transfer0.ihc)
+transfer0
+plot(transfer0.ihc, labels=transfer0[,1], hand=-1,#
+     main="乗り換え回数",#
+     cex=0.6, ylab="潜在情報量", xlab="乗り換え回数")
+cfreq <- as.matrix( read.table("chocofreq.csv", header=FALSE, sep=",", nrows=-1) )#
+# ネットから読み込む場合（こっちの方が簡単）#
+cfreq <- as.matrix( read.table( "http////web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv"#
+                   , header=FALSE, sep=",", nrows=-1) )                     #
+#
+# ラベルづけ#
+colnames(cfreq) <-c("値ごろ", "味", "カロリー", "カカオ", "新製品", "ブランド", "パッケージ", "メーカー","広告", "評判")#
+rownames(cfreq) <- c("明治ミルク",  "ブラック",  "効果",  "ライフ",  "ノワール",  "森永ミルク",  "カレ・ド",  "ダース",  "刻みカカオ",  "アッセ",  "ガーナ",  "紗々",  "カカオの恵み",  "シャルロッテ",  "エアーズ",  "ＧＡＢＡ",  "アロマーモ",  "バンホーテン",  "エアロ")#
+#
+cfreq#
+#
+# コレスポンデンス分析（双対尺度法）の実行#
+ans <- dual(cfreq)#
+summary(ans)#
+summary(ans, weighted=TRUE)#
+plot(ans,1,2)#
+# コレスポンデンス分析には、関数 ca もスグレモノ。　ただし、パッケージ ca と rgl をインストールする必要あり。#
+# install.packages("ca", dependencies=TRUE)#
+library(ca)#
+ca(cfreq)#
+plot(ca(cfreq))
+source("http://aoki2.si.gunma-u.ac.jp/R/src/all.R", encoding="euc-jp")
+cfreq <- as.matrix( read.table("chocofreq.csv", header=FALSE, sep=",", nrows=-1) )#
+# ネットから読み込む場合（こっちの方が簡単）#
+cfreq <- as.matrix( read.table( "http////web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv"#
+                   , header=FALSE, sep=",", nrows=-1) )                     #
+#
+# ラベルづけ#
+colnames(cfreq) <-c("値ごろ", "味", "カロリー", "カカオ", "新製品", "ブランド", "パッケージ", "メーカー","広告", "評判")#
+rownames(cfreq) <- c("明治ミルク",  "ブラック",  "効果",  "ライフ",  "ノワール",  "森永ミルク",  "カレ・ド",  "ダース",  "刻みカカオ",  "アッセ",  "ガーナ",  "紗々",  "カカオの恵み",  "シャルロッテ",  "エアーズ",  "ＧＡＢＡ",  "アロマーモ",  "バンホーテン",  "エアロ")#
+#
+cfreq#
+#
+# コレスポンデンス分析（双対尺度法）の実行#
+ans <- dual(cfreq)#
+summary(ans)#
+summary(ans, weighted=TRUE)#
+plot(ans,1,2)#
+# コレスポンデンス分析には、関数 ca もスグレモノ。　ただし、パッケージ ca と rgl をインストールする必要あり。#
+# install.packages("ca", dependencies=TRUE)#
+library(ca)#
+ca(cfreq)#
+plot(ca(cfreq))
+source("http://aoki2.si.gunma-u.ac.jp/R/src/all.R", encoding="euc-jp")
+cfreq <- as.matrix( read.table("chocofreq.csv", header=FALSE, sep=",", nrows=-1) )#
+# ネットから読み込む場合（こっちの方が簡単）#
+cfreq <- as.matrix( read.table( "http////web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv"#
+                   , header=FALSE, sep=",", nrows=-1) )                     #
+#
+# ラベルづけ#
+colnames(cfreq) <-c("値ごろ", "味", "カロリー", "カカオ", "新製品", "ブランド", "パッケージ", "メーカー","広告", "評判")#
+rownames(cfreq) <- c("明治ミルク",  "ブラック",  "効果",  "ライフ",  "ノワール",  "森永ミルク",  "カレ・ド",  "ダース",  "刻みカカオ",  "アッセ",  "ガーナ",  "紗々",  "カカオの恵み",  "シャルロッテ",  "エアーズ",  "ＧＡＢＡ",  "アロマーモ",  "バンホーテン",  "エアロ")#
+#
+cfreq#
+#
+# コレスポンデンス分析（双対尺度法）の実行#
+ans <- dual(cfreq)#
+summary(ans)#
+summary(ans, weighted=TRUE)#
+plot(ans,1,2)#
+# コレスポンデンス分析には、関数 ca もスグレモノ。　ただし、パッケージ ca と rgl をインストールする必要あり。#
+# install.packages("ca", dependencies=TRUE)#
+library(ca)#
+ca(cfreq)#
+plot(ca(cfreq))
+source("http://aoki2.si.gunma-u.ac.jp/R/src/all.R", encoding="euc-jp")#
+#
+cfreq <- as.matrix( read.table( "http////web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv"#
+                                , header=FALSE, sep=",", nrows=-1) )                     #
+#
+# ラベルづけ#
+colnames(cfreq) <-c("値ごろ", "味", "カロリー", "カカオ", "新製品", "ブランド", "パッケージ", "メーカー","広告", "評判")#
+rownames(cfreq) <- c("明治ミルク",  "ブラック",  "効果",  "ライフ",  "ノワール",  "森永ミルク",  "カレ・ド",  "ダース",  "刻みカカオ",  "アッセ",  "ガーナ",  "紗々",  "カカオの恵み",  "シャルロッテ",  "エアーズ",  "ＧＡＢＡ",  "アロマーモ",  "バンホーテン",  "エアロ")#
+#
+cfreq#
+#
+# コレスポンデンス分析（双対尺度法）の実行#
+ans <- dual(cfreq)#
+summary(ans)#
+summary(ans, weighted=TRUE)#
+plot(ans,1,2)#
+# コレスポンデンス分析には、関数 ca もスグレモノ。　ただし、パッケージ ca と rgl をインストールする必要あり。#
+# install.packages("ca", dependencies=TRUE)#
+library(ca)#
+ca(cfreq)#
+plot(ca(cfreq))
+source("http://aoki2.si.gunma-u.ac.jp/R/src/all.R", encoding="euc-jp")#
+#
+cfreq <- as.matrix( read.table( "http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv"#
+                                , header=FALSE, sep=",", nrows=-1) )        #
+#
+# ラベルづけ#
+colnames(cfreq) <-c("値ごろ", "味", "カロリー", "カカオ", "新製品", "ブランド", "パッケージ", "メーカー","広告", "評判")#
+rownames(cfreq) <- c("明治ミルク",  "ブラック",  "効果",  "ライフ",  "ノワール",  "森永ミルク",  "カレ・ド",  "ダース",  "刻みカカオ",  "アッセ",  "ガーナ",  "紗々",  "カカオの恵み",  "シャルロッテ",  "エアーズ",  "ＧＡＢＡ",  "アロマーモ",  "バンホーテン",  "エアロ")#
+#
+cfreq#
+#
+# コレスポンデンス分析（双対尺度法）の実行#
+ans <- dual(cfreq)#
+summary(ans)#
+summary(ans, weighted=TRUE)#
+plot(ans,1,2)#
+# コレスポンデンス分析には、関数 ca もスグレモノ。　ただし、パッケージ ca と rgl をインストールする必要あり。#
+# install.packages("ca", dependencies=TRUE)#
+library(ca)#
+ca(cfreq)#
+plot(ca(cfreq))
+source("http://aoki2.si.gunma-u.ac.jp/R/src/all.R", encoding="euc-jp")#
+#
+cfreq <- as.matrix( read.table( "http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv"#
+                                , header=FALSE, sep=",", nrows=-1) )        #
+#
+# ラベルづけ#
+colnames(cfreq) <-c("値ごろ", "味", "カロリー", "カカオ", "新製品", "ブランド", "パッケージ", "メーカー","広告", "評判")#
+rownames(cfreq) <- c("明治ミルク",  "ブラック",  "効果",  "ライフ",  "ノワール",  "森永ミルク",  "カレ・ド",  "ダース",  "刻みカカオ",  "アッセ",  "ガーナ",  "紗々",  "カカオの恵み",  "シャルロッテ",  "エアーズ",  "ＧＡＢＡ",  "アロマーモ",  "バンホーテン",  "エアロ")#
+#
+cfreq#
+#
+# コレスポンデンス分析（双対尺度法）の実行#
+ans <- dual(cfreq)#
+summary(ans)#
+summary(ans, weighted=TRUE)#
+plot(ans,1,2)#
+# コレスポンデンス分析には、関数 ca もスグレモノ。　ただし、パッケージ ca と rgl をインストールする必要あり。#
+install.packages("ca", dependencies=TRUE)#
+library(ca)#
+ca(cfreq)#
+plot(ca(cfreq))
+cfreq <- as.matrix( read.table( "http////web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv"#
+                   , header=FALSE, sep=",", nrows=-1) )                     #
+#
+# ラベルづけ#
+colnames(cfreq) <-c("値ごろ", "味", "カロリー", "カカオ", "新製品", "ブランド", "パッケージ", "メーカー","広告", "評判")#
+rownames(cfreq) <- c("明治ミルク",  "ブラック",  "効果",  "ライフ",  "ノワール",  "森永ミルク",  "カレ・ド",  "ダース",  "刻みカカオ",  "アッセ",  "ガーナ",  "紗々",  "カカオの恵み",  "シャルロッテ",  "エアーズ",  "ＧＡＢＡ",  "アロマーモ",  "バンホーテン",  "エアロ")#
+#
+cfreq
+cfreq <- as.matrix( read.table( "http://web.sfc.keio.ac.jp/~kuwahara/courses/bizDS/chocofreq.csv"#
+                   , header=FALSE, sep=",", nrows=-1) )                     #
+#
+# ラベルづけ#
+colnames(cfreq) <-c("値ごろ", "味", "カロリー", "カカオ", "新製品", "ブランド", "パッケージ", "メーカー","広告", "評判")#
+rownames(cfreq) <- c("明治ミルク",  "ブラック",  "効果",  "ライフ",  "ノワール",  "森永ミルク",  "カレ・ド",  "ダース",  "刻みカカオ",  "アッセ",  "ガーナ",  "紗々",  "カカオの恵み",  "シャルロッテ",  "エアーズ",  "ＧＡＢＡ",  "アロマーモ",  "バンホーテン",  "エアロ")#
+#
+cfreq
+source("http://aoki2.si.gunma-u.ac.jp/R/src/all.R", encoding="euc-jp")#
+#
+setwd("~/Desktop/授業/１年　秋学期/ビジネスのためのデータサイエンス/4/課題/レポート課題6")#
+univ <- as.matrix(read.table("BJdata_univ.csv", header=FALSE, sep=",", nrows=-1))#
+# ラベルづけ#
+colnames(univ) <-c("知っている", "興味がある", "好きである・気に入っている", "なくなると寂しい", "共感する・フィーリングが合う", "親しみを感じる", #
+                    "品質が優れている", "最近使っている", "役に立つ", "他にはない魅力がある", "際立った個性がある",#
+                    "ステータスが高い", "かっこいい・スタイリッシュ", "時代を切り開いている", "勢いがある", "今注目されている")#
+rownames(univ) <- c("京都大学", "慶應義塾大学", "東京大学", "一橋大学", "早稲田大学")#
+#
+univ
+source("http://aoki2.si.gunma-u.ac.jp/R/src/all.R", encoding="euc-jp")#
+#
+setwd("~/Desktop/授業/１年　秋学期/ビジネスのためのデータサイエンス/4/課題/レポート課題6")#
+univ <- as.matrix(read.table("BJdata_univ.csv", header=FALSE, sep=",", nrows=-1))#
+# ラベルづけ#
+colnames(univ) <-c("知っている", "興味がある", "好きである・気に入っている", "なくなると寂しい", "共感する・フィーリングが合う", "親しみを感じる", #
+                    "品質が優れている", "最近使っている", "役に立つ", "他にはない魅力がある", "際立った個性がある",#
+                    "ステータスが高い", "かっこいい・スタイリッシュ", "時代を切り開いている", "勢いがある", "今注目されている")#
+rownames(univ) <- c("京都大学", "慶應義塾大学", "東京大学", "一橋大学", "早稲田大学")#
+#
+univ
+source("http://aoki2.si.gunma-u.ac.jp/R/src/all.R", encoding="euc-jp")#
+#
+setwd("~/Desktop/授業/１年　秋学期/ビジネスのためのデータサイエンス/4/課題/レポート課題6")#
+univ <- as.matrix(read.table("BJdata_univ.csv", header=FALSE, sep=",", nrows=-1))#
+# ラベルづけ#
+colnames(univ) <-c("知っている", "興味がある", "好きである・気に入っている", "なくなると寂しい", "共感する・フィーリングが合う", "親しみを感じる", #
+                    "品質が優れている", "最近使っている", "役に立つ", "他にはない魅力がある", "際立った個性がある",#
+                    "ステータスが高い", "かっこいい・スタイリッシュ", "時代を切り開いている", "勢いがある", "今注目されている")#
+rownames(univ) <- c("京都大学", "慶應義塾大学", "東京大学", "一橋大学", "早稲田大学")#
+#
+univ#
+#
+# コレスポンデンス分析（双対尺度法）の実行#
+ans <- dual(univ)#
+summary(ans)#
+summary(ans, weighted=TRUE)#
+plot(ans,1,2)#
+# コレスポンデンス分析には、関数 ca もスグレモノ。　ただし、パッケージ ca と rgl をインストールする必要あり。#
+install.packages("ca", dependencies=TRUE)#
+library(ca)#
+ca(univ)#
+plot(ca(univ))
+summary(ans)
+summary(ans, weighted=T)
+plot(ans,1,2)
+library(ca)
+ca(univ)
+plot(ca(univ))
+plot(ans,1,2)
+plot(ans,1,2)
+plot(ans,1,2, weighted=TRUE)
+plot(ans,1,2)
